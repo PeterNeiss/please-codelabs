@@ -1,6 +1,6 @@
 plugin_repo(
   name = "go",
-  revision = "2906dda",
+  revision = "7166e39",
   plugin = "go-rules",
   owner = "PeterNeiss",
 )
